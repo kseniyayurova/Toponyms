@@ -1,0 +1,7 @@
+huggingface_hub
+wandb
+langchain-community
+langgraph
+geopy
+langchain_google_genai
+llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu124
